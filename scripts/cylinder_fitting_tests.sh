@@ -16,7 +16,7 @@ NORMAL_DISTANCE_WEIGHT=0.5
 MAX_ITERATIONS=1000
 DISTANCE_THRESHOLD=0.05
 DO_REFINE=0
-VISUALIZE=0
+VISUALIZE=1
 
 ## declare an array variable
 declare -a arr=("outliers" "noise" "occlusion")

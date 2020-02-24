@@ -18,7 +18,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 #include <boost/filesystem.hpp>
 #include <ctime>
 #include <random>
-#include "yaml-cpp/yaml.h"
+#include "yaml.h"
 
 
 unsigned int sub_directory_count(const std::string& name)

@@ -17,7 +17,7 @@ HEIGHT_SAMPLES=30
 ANGLE_SAMPLES=30
 
 ## declare an array variable
-declare -a arr=("occlusion" "outliers" "noise")
+declare -a arr=("occlusion")
 
 ## now loop through the above array
 for TEST_TYPE in "${arr[@]}"
